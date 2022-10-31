@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa43c303-23eb-444a-a626-b821a2b15913" name="Default Changelist" comment="" />
+    <list default="true" id="2d122c2f-d9f1-43ac-b9f0-d6d77187d160" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2Gv28nkGokO2Qfdj8qcLKiRE5kv" />
+  <component name="ProjectId" id="2Gv7XgS1pDY1lsYuj8uBtmZhg7W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -74,12 +74,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="exercicio3" />
+      <module name="exercicio2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -107,12 +106,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa43c303-23eb-444a-a626-b821a2b15913" name="Default Changelist" comment="" />
-      <created>1667254586153</created>
+      <changelist id="2d122c2f-d9f1-43ac-b9f0-d6d77187d160" name="Default Changelist" comment="" />
+      <created>1667257247190</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667254586153</updated>
-      <workItem from="1667254587522" duration="2494000" />
+      <updated>1667257247190</updated>
+      <workItem from="1667257248580" duration="626000" />
     </task>
     <servers />
   </component>
